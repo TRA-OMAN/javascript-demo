@@ -1,0 +1,28 @@
+.blue-new-style{
+    background: linear-gradient(#006699, #00cccc,#006699);
+    padding: 20px;
+    color:black;
+}
+table{
+    color:black;
+    position: relative;
+    left:-1500px;
+}
+td , th{
+    color:black;
+}
+input[type=button]{
+    position: relative;
+}
+
+.dark12{
+    background: #006699;
+    color:black;
+}
+.light12{
+    background: #66ffff;
+    color:#009999;
+}
+
+
+

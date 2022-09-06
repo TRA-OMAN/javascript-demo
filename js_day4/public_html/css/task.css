@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+}
+#main{
+    width:960px;
+    margin:50px auto;
+}
+#main > li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    font-size: 30px;
+}
+#main > li:nth-child(3){
+    position: relative;
+}
+
+#sub{
+    position: absolute;
+    left:20px;
+    top:50px;
+    list-style: none;
+    padding: 0;
+    font-size: 25px;
+}
